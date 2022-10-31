@@ -24,4 +24,5 @@ cd workout-map
 
 To run the application, open the index.html file with Google Chrome or other browser. The app requires that the browser knows the user location, so click "accept" when prompted.
 
-*This project was made during the course* The Complete JavaScript Course 2022: From Zero to Expert!*. Although an assignment project, I coded it entirely by myself, not copying a single line from sources provided by the course.*
+### DISCLAIMER
+This project was made during the course *The Complete JavaScript Course 2022: From Zero to Expert!*. Although an assignment project, I coded it entirely by myself, not copying a single line from sources provided by the course.
